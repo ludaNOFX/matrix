@@ -8,7 +8,6 @@ SRC_FILES = \
     main.cpp \
     $(SRC_DIR)/entities/Matrix.cpp \
     $(SRC_DIR)/usecases/RotateMatrix.cpp \
-    $(SRC_DIR)/adapters/MatrixPrinter.cpp \
     $(SRC_DIR)/utils/input_utils.cpp
 
 # Целевой исполняемый файл
